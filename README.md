@@ -1,8 +1,6 @@
 ### Hey, I'm Dilshan! 
 ###### _< Colloquially known as Scoopa />_
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/r7Y17m4862kdW/giphy.gif?cid=ecf05e47t3c4z4nkg6mawd7a6t4tbxhrqvf2qk754uoayifw&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
-
 #### I'm a software enthusiast and I do:
 
 - API architecture design & developments.
@@ -11,8 +9,6 @@
 - Help folks to convert from `Web2` to `Web3`.
 - Enforce clean code concepts everywhere.
 - Believe ₿itcoin is the future of money.
-
-Fuck fancy tools, I debug using `console.log('meow')` like a real man. 👍
 
 ----
 _I have experience working with stuff below_ ⏎
@@ -35,6 +31,6 @@ _I have experience working with stuff below_ ⏎
 | E-Commerce, CMS & ERP | [![WordPress](https://img.shields.io/badge/WordPress-222222?style=flat&logo=datadog&logoColor=21759B)](https://wordpress.org) [![WooCommerce](https://img.shields.io/badge/WooCommerce-222222?style=flat&logo=woocommerce&logoColor=96588A)](https://woocommerce.com) [![Shopify](https://img.shields.io/badge/Shopify-222222?style=flat&logo=shopify&logoColor=7AB55C)](https://www.shopify.com) [![SAP Business One](https://img.shields.io/badge/SAP%20Business%20One-222222?style=flat&logo=sap&logoColor=0FAAFF)](https://www.sap.com/products/erp/business-one.html) |
 | Hardware & IoT | [![Arduino](https://img.shields.io/badge/Arduino-222222?style=flat&logo=arduino&logoColor=00878F)](https://www.arduino.cc) [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-222222?style=flat&logo=raspberrypi&logoColor=A22846)](https://www.arduino.cc) [![Phillips Hue](https://img.shields.io/badge/Phillips%20Hue-222222?style=flat&logo=philipshue&logoColor=0065D3)](https://www.philips-hue.com) |
 
-###### _Disclaimer: The badges displayed represent technologies or tools I have worked with in various capacities. They do not imply comprehensive expertise in all aspects of their functionality, but rather reflect my experience and familiarity with them. Also, I don't like cats IRL as much as I love these cute cat gifs - very important info. :)_
+###### _Disclaimer: The badges displayed represent technologies or tools I have worked with in various capacities. They do not imply comprehensive expertise in all aspects of their functionality, but rather reflect my experience and familiarity with them._
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-222222?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHJvbGU9ImltZyIgdmlld0JveD0iMCAwIDI0IDI0Ij48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIgZmlsbD0iIzBhNjZjMiIvPjwvc3ZnPg==)](https://www.linkedin.com/in/dilshanlk) [![Facebook](https://img.shields.io/badge/Facebook-222222?style=flat&logo=facebook&logoColor=0866FF)](https://www.facebook.com/helloscoopa) [![Instagram](https://img.shields.io/badge/Instagram-222222?style=flat&logo=instagram&logoColor=E4405F)](https://www.instagram.com/helloscoopa) [![X](https://img.shields.io/badge/X-222222?style=flat&logo=x)](https://x.com/helloscoopa) 
